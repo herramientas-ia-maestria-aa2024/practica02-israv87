@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990686111171184611/b92f5f826f5a41a4877f4987a5fce40c/artifacts
+deleted_time: 1715995361352
+end_time: 1715994411622
+entry_point_name: ''
+experiment_id: '990686111171184611'
+lifecycle_stage: deleted
+run_id: b92f5f826f5a41a4877f4987a5fce40c
+run_name: bright-finch-68
+run_uuid: b92f5f826f5a41a4877f4987a5fce40c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715994408642
+status: 3
+tags: []
+user_id: halo_

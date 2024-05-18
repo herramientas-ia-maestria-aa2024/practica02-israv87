@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/990686111171184611/e64ce2631c1f441586003c4e1f3f4d51/artifacts
+end_time: 1715995306760
+entry_point_name: ''
+experiment_id: '990686111171184611'
+lifecycle_stage: active
+run_id: e64ce2631c1f441586003c4e1f3f4d51
+run_name: whimsical-fox-268
+run_uuid: e64ce2631c1f441586003c4e1f3f4d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715995303726
+status: 3
+tags: []
+user_id: halo_
